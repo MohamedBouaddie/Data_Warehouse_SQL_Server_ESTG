@@ -53,7 +53,7 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 ```
 data-warehouse-project/
 │
-├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
+├── datasets/                       # Raw datasets used for the project (etd et ens data)
 │
 ├── docs/                               # Project documentation and architecture details
 │   ├── data_architecture.png                      
@@ -63,7 +63,7 @@ data-warehouse-project/
 │   ├── schema structure.jpg            
 │   ├── structure architucture.png          
 │
-├── scripts/                            # SQL scripts for ETL and transformations
+├── code_sql/                            # SQL scripts for ETL and transformations
 │   ├── bronze/                         # Scripts for extracting and loading raw data
 │   ├── silver/                         # Scripts for cleaning and transforming data
 │   ├── gold/                           # Scripts for creating analytical models
