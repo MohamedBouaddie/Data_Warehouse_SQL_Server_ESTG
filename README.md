@@ -57,8 +57,7 @@ data-warehouse-project/
 │
 ├── docs/                               # Project documentation and architecture details
 │   ├── data_architecture.png                      
-│   ├── data_catalog.md       
-│   ├── data_flow.png                 
+│   ├── data_catalog.md                       
 │   ├── objectifs.jpg               
 │   ├── schema structure.jpg            
 │   ├── structure architucture.png          
