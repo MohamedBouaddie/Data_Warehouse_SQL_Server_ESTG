@@ -1,0 +1,501 @@
+etd_id_etudiant,etd_cne,etd_nom,etd_prenom,etd_date_naissance,etd_sexe,etd_id_filiere,etd_niveau,etd_statut,etd_annee_inscription
+1,G167353073,Wahbi,Youssef,2002-08-08,M,7,3eme annee,Actif,2024
+2,G188882576,Qasmi,Zakaria,2001-08-24,M,3,1ere annee,Abandon,2024
+3,G130181142,Jalil,Meryem,2001-05-07,F,4,2eme annee,Diplome,-2022
+4,G152953249,Lahlou,Fouad,2002-04-05,M,10,3eme annee,Diplome,2024
+5,G188043078,Iharchane,Zineb,2002-12-17,F,1,1ere annee,Actif,2023
+6,G121198492, Naji, Zineb,2004-03-04,F,2,1ere annee,Actif,-2024
+7,G138307798,   Benhaddou,  Chaimae,2001-08-08,F,11,3eme annee,Actif,2022
+8,G162816684,Iharchane,Imane,2003-08-28,F,5,2eme annee,Actif,2023
+9,G100916723,Idrissi,Rachid,2000-10-13,M,3,2eme annee,Actif,2022
+10,G178176558,Tahiri,Amine,2001-05-21,M,8,3eme annee,Actif,-2023
+11,G189628735,Driouch,Yasmine,1998-09-12,F,11,3eme annee,Actif,2023
+12,G175721444,   Driouch, Btissam,1998-11-16,F,9,3eme annee,Actif,2024
+13,G161310453,  Tahiri,   Badr,2002-08-29,M,8,3eme annee,Diplome,2022
+14,G134152669,Ait Said,Imane,2002-06-10,F,11,3eme annee,Actif,2023
+15,G108087373,Cherkaoui,Youssef,2004-01-26,M,1,2eme annee,Actif,2023
+16,G197883579,Ziani,Saad,2005-03-12,M,5,1ere annee,Actif,2023
+17,G110770971, Tazi,   Fatima,2002-03-19,F,7,3eme annee,Redoublant,2023
+18,G197691465,  Hamdaoui,  Asmaa,1999-06-06,F,2,2eme annee,Diplome,2022
+19,G130824989,Hassani,Tarik,2002-04-03,M,5,2eme annee,Diplome,2023
+20,G188610233,   Naji,  Asmaa,1998-05-12,F,3,1ere annee,Actif,2023
+21,G159920305,Wahbi,Badr,1998-05-18,M,4,1ere annee,Abandon,2022
+22,G136930534,Benhaddou,Hajar,2001-05-15,F,3,1ere annee,Actif,2024
+23,G186344420,Mernissi,Houda,2001-11-11,F,9,3eme annee,Actif,-2023
+24,G175482164,Naciri,Saad,1998-08-25,M,4,1ere annee,Redoublant,2023
+25,G144327148,Ziani,Chakib,2000-04-12,M,7,3eme annee,Actif,2022
+26,G150622628,   Bensouda, Btissam,2001-01-04,F,6,1ere annee,Actif,2022
+27,G144689713,Jaafari,Amine,2000-05-05,M,4,1ere annee,Redoublant,2024
+28,G162579077,Tazi,Oumaima,2002-04-09,F,4,2eme annee,Actif,2024
+29,G187859993,Kabbaj,Lamiae,2004-03-05,F,4,1ere annee,Redoublant,2023
+30,G150090149,   Benali, Youssef,2003-02-11,M,3,1ere annee,Abandon,2022
+31,G109978827,   Berrada,   Karim,1998-07-10,M,4,2eme annee,Actif,2024
+32,G107207013,Driouch,Salma,2001-11-17,F,3,1ere annee,Abandon,2024
+33,G185110541, Idrissi,  Tarik,1998-05-02,M,2,2eme annee,Actif,2023
+34,G143544301, Moussaoui, Amine,2004-09-15,M,2,1ere annee,Abandon,2023
+35,G132580349,Zemmouri,Houda,2004-04-10,F,7,3eme annee,Actif,2023
+36,G156519399,Jalil,Zineb,2001-02-04,F,3,1ere annee,Actif,2022
+37,G182767884,Guennoun,Tarik,2004-08-29,M,6,1ere annee,Redoublant,2023
+38,G115285764,Zemmouri,Imane,2002-02-04,F,7,3eme annee,Redoublant,2023
+39,G195075416,  Guennoun,   Tarik,2003-03-06,M,11,3eme annee,Actif,2024
+40,G169942848,Qasmi,Omar,2000-04-27,M,6,2eme annee,Diplome,2023
+41,G169255529,Filali,Ilyas,2000-09-26,M,6,1ere annee,Actif,2024
+42,G154364546,Ziani,Hamza,2000-08-07,M,6,2eme annee,Diplome,2024
+43,G194588013,Ghazali,Imane,1998-01-19,F,10,3eme annee,Redoublant,2023
+44,G142064387,Bensouda,Rajae,2005-03-02,F,2,2eme annee,Diplome,2023
+45,G118830282,Filali,Nabil,2001-03-29,M,9,3eme annee,Diplome,-2022
+46,G165043108,El Amrani,Imane,1998-02-09,F,10,3eme annee,Actif,2022
+47,G104142053,Hamdaoui,Meryem,2004-05-04,F,8,3eme annee,Actif,2022
+48,G149239353,  Saidi, Badr,2004-02-03,M,10,3eme annee,Actif,2022
+49,G181907952,Ziani,Saad,2005-12-21,M,10,3eme annee,Actif,-2024
+50,G190762665,Moussaoui,Youssef,2000-10-10,M,3,1ere annee,Actif,2022
+51,G155596350,   Moussaoui,   Tarik,2005-01-15,M,10,3eme annee,Actif,2024
+52,G137342819,   Lahlou,  Tarik,2003-10-13,M,11,3eme annee,Redoublant,2022
+53,G106497381,Benali,Driss,2005-08-27,M,10,3eme annee,Actif,2023
+54,G100090721,Naji,Imane,2003-02-13,F,1,1ere annee,Redoublant,2022
+55,G128644905,  Rbii, Chaimae,1998-01-05,F,11,3eme annee,Actif,2022
+56,G159735865, Alaoui, Amine,2005-08-17,M,10,3eme annee,Diplome,2022
+57,G187244236,Filali,Tarik,2004-11-04,M,9,3eme annee,Actif,2024
+58,G181460345, Rachidi,  Ibrahim,2003-10-22,M,11,3eme annee,Actif,2023
+59,G173330690,Berrada,Hamza,2002-02-05,M,7,3eme annee,Redoublant,2024
+60,G128956527,Benhaddou,Btissam,2000-12-09,F,2,1ere annee,Actif,2022
+61,G156851305,Mernissi,Chaimae,2002-08-29,F,9,3eme annee,Diplome,2023
+62,G127272705,El Fassi,Ilyas,2003-09-26,M,5,2eme annee,Actif,2022
+63,G196739510,Idrissi,Hamza,2003-10-20,M,8,3eme annee,Diplome,2023
+64,G168555983,Lahlou,Badr,2003-02-08,M,5,1ere annee,Redoublant,-2024
+65,G162423883,Jaafari,Mehdi,1998-10-10,M,3,1ere annee,Actif,2022
+66,G127540722,Sekkat,Kenza,1999-03-02,F,1,2eme annee,Actif,2024
+67,G176211608,Benali,Saad,2004-08-21,M,11,3eme annee,Actif,2023
+68,G194049798,Kettani,Nabil,2002-05-29,M,4,2eme annee,Actif,2023
+69,G178478184,Driouch,Fatima,1999-07-12,F,5,1ere annee,Actif,2022
+70,G116205010,Saidi,Omar,2002-07-24,M,3,2eme annee,Actif,2023
+71,G116094525,Cherkaoui,Hamza,2000-12-21,M,8,3eme annee,Diplome,2023
+72,G119907683,Chraibi,Kenza,2001-09-04,F,10,3eme annee,Actif,2022
+73,G140109721,Iharchane,Hajar,2005-08-05,F,7,3eme annee,Actif,-2024
+74,G133534652,Daoudi,Tarik,2004-03-03,M,7,3eme annee,Diplome,2023
+75,G117544302,Guennoun,Rachid,2000-06-29,M,3,1ere annee,Actif,2022
+76,G178667527, Iharchane,  Chaimae,2004-07-13,F,11,3eme annee,Actif,2024
+77,G144499873,Daoudi,Badr,1999-01-12,M,2,2eme annee,Actif,2022
+78,G159862640,El Fassi,Badr,2001-02-20,M,6,1ere annee,Actif,2022
+79,G173912181,Qasmi,Badr,2002-08-15,M,11,3eme annee,Diplome,2023
+80,G186255361,   Rachidi,   Jawad,2000-03-27,M,5,1ere annee,Actif,2023
+81,G173083942,Qasmi,Omar,2003-05-19,M,7,3eme annee,Actif,2024
+82,G142799022,Bensouda,Kenza,1998-04-17,F,7,3eme annee,Actif,-2023
+83,G178381665,Hassani,Hamza,2002-01-04,M,5,2eme annee,Diplome,2022
+84,G198926537,Benali,Jawad,2003-12-26,M,4,1ere annee,Actif,2024
+85,G142681823,  Laaziri, Asmaa,2004-08-23,F,6,1ere annee,Actif,2022
+86,G131222178,   Wahbi,  Jawad,1998-08-19,M,8,3eme annee,Actif,2022
+87,G182427773,Guennoun,Fouad,2001-09-20,M,9,3eme annee,Actif,2023
+88,G145172462,Jalil,Nadia,1999-02-18,F,2,2eme annee,Abandon,2023
+89,G142585056,Filali,Ilyas,2005-04-13,M,3,2eme annee,Diplome,2024
+90,G124438599,Wahbi,Nabil,1998-05-13,M,1,2eme annee,Abandon,2024
+91,G177585294, Hamdaoui, Hajar,2003-05-18,F,6,2eme annee,Actif,2024
+92,G135047967,Driouch,Chaimae,2001-07-29,F,2,2eme annee,Actif,2022
+93,G112496299,Kabbaj,Zineb,2004-02-19,F,3,1ere annee,Actif,2023
+94,G174371711,Saidi,Karim,2005-10-26,M,6,1ere annee,Actif,2022
+95,G176741644,Tazi,Zineb,2002-05-29,F,5,1ere annee,Actif,2022
+96,G139533757,  Berrada,  Youssef,1998-12-25,M,1,1ere annee,Actif,2023
+97,G135568288,Cherkaoui,Ilyas,2005-05-31,M,5,2eme annee,Diplome,2023
+98,G179151743,Hassani,Ilyas,2002-08-23,M,2,2eme annee,Diplome,2024
+99,G192216696,Qasmi,Jawad,2004-01-03,M,7,3eme annee,Redoublant,2024
+100,G176667841,Sekkat,Fatima,2003-08-19,F,5,2eme annee,Actif,2022
+101,G119847882,Bensouda,Lamiae,2005-01-13,F,2,2eme annee,Actif,2024
+102,G174095459,   Kabbaj,   Lamiae,2002-06-16,F,2,2eme annee,Diplome,2022
+103,G120084652,El Amrani,Dina,2002-08-25,F,1,2eme annee,Actif,2024
+104,G146153339,Naciri,Karim,2004-01-03,M,10,3eme annee,Actif,2022
+105,G136048781,Laaziri,Asmaa,2003-05-01,F,6,1ere annee,Actif,2024
+106,G191919283,Driouch,Kenza,2005-10-22,F,5,2eme annee,Diplome,2023
+107,G197817801,Naciri,Chakib,2001-01-08,M,5,2eme annee,Actif,2024
+108,G176325904,Alaoui,Hamza,2003-11-18,M,2,2eme annee,Actif,2023
+109,G104102122, Hamdaoui,  Oumaima,2005-08-22,F,6,2eme annee,Actif,2023
+110,G151883966, Benhaddou,  Hajar,1998-04-23,F,3,1ere annee,Actif,2023
+111,G187454571, Naciri,   Zakaria,2001-01-07,M,4,1ere annee,Actif,2024
+112,G186888739,Filali,Amine,1999-06-26,M,11,3eme annee,Diplome,2022
+113,G153304911,   Zemmouri,   Dina,2004-12-29,F,4,2eme annee,Diplome,-2023
+114,G186884788,Wahbi,Mehdi,2004-04-18,M,9,3eme annee,Actif,2024
+115,G187966375,Rbii,Meryem,1998-04-15,F,11,3eme annee,Actif,-2023
+116,G178252116, Zemmouri, Imane,1998-05-25,F,7,3eme annee,Redoublant,2023
+117,G140291467,Fathi,Hajar,2003-09-09,F,4,2eme annee,Actif,-2024
+118,G124571018,   Kabbaj,   Chaimae,2004-04-08,F,2,1ere annee,Actif,2023
+119,G149886371,Idrissi,Mehdi,2001-09-19,M,6,2eme annee,Redoublant,2022
+120,G161414198,El Fassi,Nabil,2004-05-21,M,3,2eme annee,Redoublant,2022
+121,G164075580,   Mernissi,   Asmaa,2002-10-24,F,11,3eme annee,Redoublant,2023
+122,G193083315, Lahlou, Mehdi,2000-07-15,M,11,3eme annee,Actif,2022
+123,G158205561,  El Amrani,   Nadia,2001-10-15,F,9,3eme annee,Diplome,2024
+124,G106521231,Bensouda,Btissam,2004-12-27,F,11,3eme annee,Diplome,2023
+125,G115541047,Naciri,Tarik,2005-09-26,M,11,3eme annee,Actif,2022
+126,G120552371,Ghazali,Asmaa,2005-11-14,F,2,2eme annee,Diplome,2024
+127,G154996550, Jaafari,   Hamza,2005-11-21,M,5,1ere annee,Actif,2024
+128,G164513622,Kettani,Jawad,2005-09-19,M,9,3eme annee,Actif,-2023
+129,G189794603,   Qasmi, Fouad,2004-06-09,M,1,1ere annee,Actif,2024
+130,G106159129, Ait Said,   Fatima,1999-01-25,F,7,3eme annee,Actif,2024
+131,G191052385,Ouazzani,Hamza,2004-05-19,M,7,3eme annee,Diplome,2024
+132,G165514730,Driouch,Salma,2003-06-02,F,6,1ere annee,Actif,2024
+133,G158095862,  Hamdaoui,  Zineb,1999-01-26,F,9,3eme annee,Abandon,2024
+134,G174939694,Bensouda,Btissam,1999-09-01,F,11,3eme annee,Redoublant,2024
+135,G168038903,Hamdaoui,Rajae,1998-07-26,F,6,2eme annee,Actif,2022
+136,G160142774,Chraibi,Zineb,2004-06-05,F,4,2eme annee,Diplome,2022
+137,G154148754,  Naji,  Btissam,1999-02-25,F,6,2eme annee,Actif,2022
+138,G127763104, Ziani,   Tarik,2004-04-22,M,2,2eme annee,Diplome,2024
+139,G129762393,Ait Said,Nadia,2005-05-22,F,8,3eme annee,Actif,2022
+140,G196205645,Kettani,Driss,2000-02-20,M,2,1ere annee,Redoublant,2023
+141,G188376561,Zemmouri,Houda,2003-02-17,F,1,1ere annee,Redoublant,2024
+142,G174252780,Naciri,Youssef,1998-07-18,M,8,3eme annee,Diplome,2022
+143,G153401206,Kabbaj,Meryem,2001-01-25,F,7,3eme annee,Actif,2024
+144,G189544328, Naji,  Meryem,2004-05-26,F,2,2eme annee,Abandon,-2023
+145,G119505421,  Benhaddou, Btissam,2002-04-10,F,1,1ere annee,Actif,2024
+146,G152016704,Naji,Nadia,2002-04-12,F,4,2eme annee,Actif,2024
+147,G109995059,Filali,Hamza,2005-08-28,M,4,2eme annee,Actif,2023
+148,G112340723,Lahlou,Jawad,2002-07-11,M,7,3eme annee,Diplome,2024
+149,G189783401,  Laaziri,  Yasmine,1999-04-15,F,9,3eme annee,Actif,-2024
+150,G189970857,   Ziani,  Ibrahim,2000-05-13,M,2,1ere annee,Actif,2022
+151,G120636590,Ait Said,Yasmine,2005-09-11,F,2,2eme annee,Actif,2022
+152,G100791740,   Ziani, Chakib,2003-12-31,M,7,3eme annee,Actif,2024
+153,G186695458,Rachidi,Fouad,2002-08-18,M,5,2eme annee,Actif,2022
+154,G124341456, Berrada,  Badr,1999-04-15,M,3,2eme annee,Actif,2022
+155,G165211190,Ouazzani,Nabil,2001-07-25,M,5,1ere annee,Actif,2024
+156,G148921480,Kabbaj,Salma,2004-05-10,F,10,3eme annee,Abandon,2022
+157,G199296451,Ziani,Saad,2005-12-27,M,1,1ere annee,Actif,-2023
+158,G162371131,Rachidi,Zakaria,1999-07-03,M,10,3eme annee,Actif,2024
+159,G188943201,Hassani,Hamza,1998-02-13,M,7,3eme annee,Diplome,2023
+160,G108437082,Iharchane,Oumaima,2000-08-07,F,6,1ere annee,Redoublant,2022
+161,G150554391,Mernissi,Oumaima,1999-12-14,F,10,3eme annee,Abandon,2024
+162,G169306247,Moussaoui,Omar,2000-07-01,M,9,3eme annee,Redoublant,2023
+163,G125086055,Filali,Omar,1999-09-08,M,4,2eme annee,Actif,2022
+164,G196671078,Daoudi,Youssef,2001-09-14,M,11,3eme annee,Redoublant,-2022
+165,G186873663,  Naji, Asmaa,1999-10-23,F,8,3eme annee,Abandon,-2022
+166,G179268452,Cherkaoui,Jawad,2004-09-09,M,11,3eme annee,Diplome,2023
+167,G127158762,Sekkat,Houda,1998-03-09,F,7,3eme annee,Actif,2022
+168,G151168696,Laaziri,Dina,2003-05-29,F,6,2eme annee,Actif,2022
+169,G138019408,   Bensouda, Salma,1998-12-10,F,3,2eme annee,Actif,2023
+170,G115814687,   Sekkat,  Asmaa,2003-11-11,F,4,1ere annee,Abandon,2022
+171,G148623028,Driouch,Fatima,2002-08-02,F,11,3eme annee,Actif,2022
+172,G177531025,  Lahlou,   Rachid,2001-06-10,M,6,2eme annee,Actif,2024
+173,G182413089,  Berrada,   Badr,2004-03-05,M,9,3eme annee,Actif,2023
+174,G119505652,Qasmi,Saad,1999-01-09,M,7,3eme annee,Actif,2024
+175,G181742470,Benali,Rachid,1998-11-24,M,2,1ere annee,Actif,-2023
+176,G195510117,Bensouda,Btissam,2001-03-19,F,10,3eme annee,Diplome,2024
+177,G159427400,Mernissi,Zineb,2005-10-14,F,9,3eme annee,Actif,2024
+178,G194110263,   Hassani, Nabil,2005-08-04,M,7,3eme annee,Actif,2024
+179,G147451057, Ghazali, Lamiae,2001-07-09,F,2,1ere annee,Redoublant,2024
+180,G120937370,Daoudi,Driss,2001-12-29,M,4,1ere annee,Abandon,2022
+181,G136874043,Rbii,Hajar,2004-06-11,F,6,2eme annee,Diplome,2024
+182,G107267644, Sekkat,  Salma,1999-06-10,F,7,3eme annee,Abandon,2022
+183,G101129926,Alaoui,Ibrahim,2005-09-24,M,9,3eme annee,Actif,2023
+184,G196746213,Idrissi,Jawad,1999-02-14,M,10,3eme annee,Actif,2024
+185,G119441214,Fathi,Nadia,2005-01-31,F,10,3eme annee,Diplome,2023
+186,G109575640,   Chraibi, Hajar,2002-07-16,F,11,3eme annee,Abandon,2024
+187,G135899536,Bensouda,Rajae,2005-12-19,F,4,2eme annee,Actif,2023
+188,G160436720, Naji, Hajar,2003-11-04,F,8,3eme annee,Abandon,-2023
+189,G110746107,Guennoun,Hamza,2005-11-10,M,1,1ere annee,Actif,2022
+190,G107224328,   Ait Said,   Rajae,2004-02-25,F,2,1ere annee,Redoublant,2022
+191,G152324272,Jaafari,Jawad,2005-05-06,M,2,1ere annee,Actif,2023
+192,G173624500,Oufkir,Fatima,2001-01-20,F,6,2eme annee,Diplome,2023
+193,G185342494,Tahiri,Saad,2005-01-28,M,10,3eme annee,Diplome,-2024
+194,G141321368, Laaziri,  Salma,2002-12-15,F,6,1ere annee,Actif,2023
+195,G150149632, Ghazali, Salma,2004-02-24,F,10,3eme annee,Actif,2022
+196,G118337367,Jalil,Dina,2000-01-18,F,7,3eme annee,Actif,2022
+197,G124956121,   Driouch,   Meryem,1998-04-01,F,1,1ere annee,Abandon,2022
+198,G112106034, El Amrani,  Asmaa,2000-08-11,F,3,2eme annee,Actif,2024
+199,G149848072,Oufkir,Btissam,2003-08-04,F,4,2eme annee,Actif,2023
+200,G109581091,Tazi,Zineb,2002-05-27,F,2,1ere annee,Actif,2022
+201,G195923064,Hassani,Rachid,1999-05-15,M,4,2eme annee,Actif,2023
+202,G198693352,Driouch,Houda,2003-03-03,F,4,1ere annee,Actif,2024
+203,G121288466, Ziani,  Badr,2001-08-16,M,8,3eme annee,Actif,2023
+204,G163789750,Bensouda,Fatima,2005-09-30,F,4,1ere annee,Abandon,2022
+205,G198406939,Ghazali,Asmaa,2002-12-02,F,9,3eme annee,Actif,2024
+206,G165136149,   Oufkir,   Meryem,1998-06-11,F,6,1ere annee,Actif,2024
+207,G135346140,Saidi,Omar,2001-04-26,M,2,1ere annee,Redoublant,2024
+208,G170222787,Chraibi,Btissam,1999-01-30,F,6,2eme annee,Actif,-2023
+209,G199787852,Naji,Oumaima,2004-04-04,F,11,3eme annee,Actif,2022
+210,G198556123,Cherkaoui,Mehdi,1998-06-16,M,10,3eme annee,Diplome,-2023
+211,G189287317, Naji,  Dina,2005-11-17,F,2,2eme annee,Diplome,2024
+212,G173851788,Idrissi,Omar,2002-03-17,M,10,3eme annee,Actif,2024
+213,G138182550,Bensouda,Asmaa,1998-05-22,F,8,3eme annee,Actif,2023
+214,G118576833,Idrissi,Omar,1999-10-02,M,2,2eme annee,Actif,2022
+215,G194334647,Tahiri,Driss,2005-09-25,M,6,1ere annee,Redoublant,2023
+216,G144881018,Laaziri,Salma,1998-08-18,F,1,2eme annee,Actif,2024
+217,G140907334,Sekkat,Btissam,1998-08-10,F,2,1ere annee,Actif,-2022
+218,G167431202,   Hamdaoui,   Fatima,2001-08-31,F,9,3eme annee,Actif,2024
+219,G179877290,Tahiri,Zakaria,2002-12-31,M,11,3eme annee,Redoublant,2024
+220,G164548325,Tazi,Imane,1999-07-07,F,9,3eme annee,Actif,2023
+221,G175318641,   Bensouda,  Houda,2000-03-14,F,7,3eme annee,Abandon,2024
+222,G191903974,Tahiri,Chakib,2001-08-17,M,4,2eme annee,Redoublant,2022
+223,G146749089,Guennoun,Nabil,2002-02-05,M,11,3eme annee,Redoublant,2023
+224,G191987358,Lahlou,Fouad,2000-03-28,M,8,3eme annee,Actif,2022
+225,G119820881,Jaafari,Amine,2004-12-18,M,2,1ere annee,Actif,2024
+226,G164830696,Wahbi,Fouad,2004-02-26,M,9,3eme annee,Actif,2024
+227,G187880113,Ait Said,Chaimae,2003-03-20,F,4,2eme annee,Actif,2024
+228,G102560649,Jalil,Rajae,1999-03-18,F,11,3eme annee,Actif,2023
+229,G165050252,Wahbi,Ilyas,2001-07-16,M,7,3eme annee,Actif,2024
+230,G102884132,  Benali,   Jawad,2005-12-28,M,3,2eme annee,Diplome,2022
+231,G134585138,Mernissi,Asmaa,2005-01-07,F,4,2eme annee,Actif,-2024
+232,G118422816,Chraibi,Rajae,2005-05-14,F,4,2eme annee,Redoublant,2022
+233,G118599426,Zemmouri,Imane,2005-04-26,F,9,3eme annee,Actif,-2022
+234,G188077934,Tahiri,Hamza,1999-08-18,M,5,1ere annee,Actif,2024
+235,G199098265,Iharchane,Fatima,2005-02-21,F,7,3eme annee,Diplome,2023
+236,G165960711,Rbii,Fatima,2002-05-07,F,11,3eme annee,Actif,2023
+237,G136219821,Naciri,Jawad,1998-03-03,M,4,1ere annee,Actif,2022
+238,G165759022,   Kettani, Tarik,2004-12-02,M,4,1ere annee,Redoublant,2022
+239,G198694560,Moussaoui,Nabil,2004-10-26,M,7,3eme annee,Actif,2023
+240,G122345453,Naji,Meryem,2003-03-05,F,7,3eme annee,Actif,2023
+241,G148713437,Cherkaoui,Zakaria,2005-02-10,M,2,1ere annee,Redoublant,2022
+242,G124007090, Benali, Saad,1999-08-16,M,6,1ere annee,Actif,2024
+243,G124252610,   Driouch, Fatima,2005-01-09,F,5,2eme annee,Actif,-2024
+244,G179035763,Berrada,Youssef,2000-06-07,M,10,3eme annee,Actif,2023
+245,G104352961,Berrada,Mehdi,1999-08-19,M,11,3eme annee,Actif,2023
+246,G118058430, Driouch,  Lamiae,2003-04-13,F,2,1ere annee,Actif,2023
+247,G193392654,Ghazali,Btissam,2000-05-09,F,9,3eme annee,Diplome,2023
+248,G164916146,Wahbi,Mehdi,1998-12-26,M,10,3eme annee,Diplome,2024
+249,G177194344,Bensouda,Oumaima,2003-11-23,F,10,3eme annee,Actif,2023
+250,G155650977, Naji,   Btissam,2004-11-25,F,11,3eme annee,Actif,2022
+251,G120855594,Oufkir,Nadia,2003-05-27,F,8,3eme annee,Actif,2022
+252,G140618137,Ghazali,Houda,2003-01-26,F,2,1ere annee,Actif,2023
+253,G112429114,  Oufkir, Houda,2000-04-07,F,3,2eme annee,Actif,2022
+254,G100551617,Jalil,Btissam,1999-04-20,F,7,3eme annee,Diplome,2024
+255,G188447373,Jaafari,Amine,2003-11-03,M,6,1ere annee,Actif,2023
+256,G125843038,Jalil,Lamiae,2000-04-01,F,11,3eme annee,Actif,2022
+257,G162504573,   Zemmouri,  Fatima,1998-11-18,F,5,1ere annee,Abandon,2023
+258,G191869078,   Ziani, Tarik,2001-06-25,M,8,3eme annee,Diplome,-2022
+259,G174645170,Ziani,Chakib,2001-08-27,M,7,3eme annee,Actif,-2024
+260,G155491233, Hamdaoui,  Kenza,2004-08-15,F,9,3eme annee,Redoublant,-2023
+261,G127949250, Tahiri,  Saad,2001-10-27,M,8,3eme annee,Actif,2023
+262,G131696096,Fathi,Chaimae,2005-10-14,F,10,3eme annee,Diplome,2023
+263,G129207357,El Amrani,Asmaa,1999-01-06,F,8,3eme annee,Actif,2024
+264,G191208855, Jaafari, Saad,2004-05-24,M,4,2eme annee,Actif,2024
+265,G154250458,   El Amrani,  Meryem,2003-09-22,F,2,1ere annee,Abandon,2024
+266,G188305426,Naciri,Fouad,2003-06-17,M,1,1ere annee,Actif,2022
+267,G141943002,   Wahbi, Badr,2004-07-02,M,11,3eme annee,Diplome,2024
+268,G193288187,   Bensouda,   Meryem,1998-05-25,F,6,2eme annee,Actif,2023
+269,G176887967,Benhaddou,Meryem,1999-11-24,F,1,2eme annee,Abandon,-2024
+270,G110316277,Idrissi,Karim,2003-09-02,M,5,1ere annee,Actif,2023
+271,G159080631,Fathi,Imane,2005-05-30,F,7,3eme annee,Actif,2023
+272,G194705076,  Mernissi,   Zineb,2005-08-31,F,5,1ere annee,Actif,2023
+273,G160239684,   Mernissi, Nadia,2001-03-28,F,3,2eme annee,Actif,2024
+274,G173499313,Ait Said,Asmaa,2001-07-07,F,11,3eme annee,Actif,2024
+275,G192006192,Ouazzani,Omar,1999-03-02,M,1,1ere annee,Abandon,2023
+276,G183134088, Cherkaoui,   Badr,1998-04-08,M,5,1ere annee,Actif,2023
+277,G104678950,Cherkaoui,Chakib,1999-02-28,M,8,3eme annee,Actif,2024
+278,G187626101,   Ait Said, Btissam,1999-09-02,F,8,3eme annee,Diplome,2022
+279,G100497109, Sekkat, Zineb,2004-06-11,F,5,2eme annee,Redoublant,2022
+280,G130312650,Ait Said,Rajae,2004-01-22,F,7,3eme annee,Actif,2023
+281,G138917593, Ziani,   Ibrahim,2003-02-26,M,6,2eme annee,Actif,2024
+282,G171664219,Ouazzani,Amine,2003-08-09,M,9,3eme annee,Actif,2024
+283,G116206185,  Iharchane,  Fatima,1998-09-16,F,4,1ere annee,Actif,-2022
+284,G158876111,  Hamdaoui, Btissam,1999-11-07,F,3,2eme annee,Diplome,2024
+285,G165359668, Cherkaoui, Amine,1998-03-06,M,2,2eme annee,Actif,2024
+286,G155301908,  Hassani,  Hamza,2003-01-19,M,11,3eme annee,Diplome,2023
+287,G163674613,  Rbii, Hajar,2005-09-07,F,1,1ere annee,Actif,-2022
+288,G199377072,Benhaddou,Hajar,1999-03-04,F,5,2eme annee,Actif,2023
+289,G196825082,  Ouazzani, Nabil,2000-08-21,M,1,1ere annee,Actif,2023
+290,G109868991,Qasmi,Youssef,2000-06-22,M,7,3eme annee,Redoublant,2022
+291,G127140286,Kabbaj,Fatima,2001-01-09,F,3,1ere annee,Actif,2023
+292,G193503250,Daoudi,Tarik,2003-05-18,M,7,3eme annee,Redoublant,2024
+293,G117812303,Laaziri,Meryem,2000-06-11,F,4,1ere annee,Actif,2022
+294,G109489004,  Mernissi,  Nadia,2005-01-13,F,3,2eme annee,Actif,2023
+295,G177205978,  Guennoun,  Chakib,2004-01-31,M,5,2eme annee,Abandon,2023
+296,G151399349, Laaziri,  Yasmine,1999-03-31,F,1,2eme annee,Actif,2024
+297,G108993381,Saidi,Ibrahim,2005-11-27,M,6,1ere annee,Abandon,2023
+298,G194334073,   Guennoun, Jawad,2004-07-04,M,6,1ere annee,Redoublant,2022
+299,G108505267,Laaziri,Oumaima,1998-08-12,F,6,2eme annee,Actif,2023
+300,G161454824,Chraibi,Chaimae,2000-02-11,F,10,3eme annee,Actif,2023
+301,G125375292,Chraibi,Asmaa,2001-04-09,F,6,2eme annee,Actif,-2023
+302,G177672417,Kettani,Nabil,2002-08-14,M,9,3eme annee,Actif,-2024
+303,G149915883,Jaafari,Badr,2003-06-07,M,5,2eme annee,Actif,2022
+304,G121823481, Tazi,   Meryem,2004-01-21,F,6,2eme annee,Diplome,2022
+305,G138899945,Zemmouri,Fatima,2003-04-26,F,11,3eme annee,Actif,2024
+306,G118713077,Tazi,Dina,1998-06-14,F,6,1ere annee,Redoublant,2024
+307,G112412607,Kabbaj,Btissam,2002-01-03,F,1,1ere annee,Redoublant,2023
+308,G189491869,  Laaziri, Rajae,1998-08-18,F,10,3eme annee,Diplome,-2024
+309,G105668405,   Jaafari, Mehdi,2003-07-03,M,3,2eme annee,Diplome,2023
+310,G103602405,Ait Said,Fatima,2000-07-08,F,9,3eme annee,Diplome,2024
+311,G164489726,Tahiri,Saad,2004-07-08,M,10,3eme annee,Actif,2024
+312,G116050250,   Laaziri,   Houda,2005-10-14,F,11,3eme annee,Diplome,2024
+313,G161880273,El Fassi,Omar,2001-08-02,M,5,1ere annee,Actif,2022
+314,G126013386, Fathi, Dina,2003-10-06,F,9,3eme annee,Actif,2024
+315,G140409241,Idrissi,Omar,2005-09-06,M,9,3eme annee,Actif,2023
+316,G101731095, El Fassi,  Zakaria,1999-08-12,M,9,3eme annee,Actif,2024
+317,G113746292,Ghazali,Fatima,1999-10-30,F,6,2eme annee,Actif,2023
+318,G110254278,   Daoudi,  Fouad,2003-03-02,M,4,1ere annee,Actif,2024
+319,G148663129,El Fassi,Tarik,2005-10-01,M,8,3eme annee,Actif,2023
+320,G129844365,El Amrani,Fatima,1999-05-01,F,3,2eme annee,Actif,2024
+321,G108891570,Jaafari,Amine,1998-06-27,M,8,3eme annee,Actif,-2022
+322,G124800996, Berrada,  Omar,2000-03-30,M,2,1ere annee,Abandon,2024
+323,G158795196,   Sekkat,  Chaimae,2002-06-12,F,3,2eme annee,Actif,2022
+324,G163864322,Bensouda,Rajae,2001-12-29,F,5,2eme annee,Redoublant,2024
+325,G188728736,Sekkat,Zineb,1998-11-10,F,10,3eme annee,Actif,2024
+326,G135120118,  Tazi,   Nadia,2003-08-30,F,4,2eme annee,Diplome,2023
+327,G143014471,Benhaddou,Asmaa,2001-03-11,F,10,3eme annee,Actif,2024
+328,G183906615,   Kettani, Rachid,1998-04-21,M,3,2eme annee,Abandon,2023
+329,G105016739,Ouazzani,Saad,2001-08-28,M,6,1ere annee,Abandon,-2022
+330,G192726191,   Ghazali,   Nadia,1999-02-14,F,10,3eme annee,Diplome,2022
+331,G138568210,  Iharchane,   Btissam,2000-05-26,F,4,1ere annee,Abandon,2023
+332,G199708742,  Chraibi,   Dina,2005-01-02,F,10,3eme annee,Actif,2023
+333,G126853878,Naji,Rajae,2001-07-07,F,7,3eme annee,Diplome,-2024
+334,G199617472,   Ouazzani,  Karim,2005-05-30,M,10,3eme annee,Actif,2023
+335,G126930522,Laaziri,Yasmine,2003-11-10,F,10,3eme annee,Actif,2024
+336,G142768905,Cherkaoui,Ibrahim,2002-08-08,M,4,2eme annee,Redoublant,2022
+337,G180696029,Hamdaoui,Rajae,2005-09-14,F,5,1ere annee,Actif,2023
+338,G121388734,Iharchane,Fatima,2000-04-07,F,7,3eme annee,Actif,-2024
+339,G102672106,Benali,Chakib,2003-06-14,M,5,1ere annee,Actif,2023
+340,G177902618,  Rachidi,   Karim,2005-06-13,M,4,1ere annee,Abandon,2022
+341,G136849119,Oufkir,Salma,2000-05-26,F,4,1ere annee,Actif,2022
+342,G119449696,Laaziri,Zineb,2001-02-11,F,8,3eme annee,Actif,2024
+343,G190140437,  Hamdaoui,  Lamiae,2005-09-30,F,5,1ere annee,Actif,2022
+344,G131726640,Oufkir,Rajae,2003-12-31,F,5,2eme annee,Actif,2024
+345,G131602967,Jaafari,Ibrahim,1999-01-05,M,7,3eme annee,Actif,2023
+346,G196285921,Naciri,Driss,2001-09-24,M,8,3eme annee,Redoublant,2023
+347,G180814633,Saidi,Nabil,2002-09-20,M,5,1ere annee,Actif,2024
+348,G111036999,Daoudi,Hamza,2004-06-16,M,11,3eme annee,Actif,2023
+349,G192040260,Naciri,Nabil,2004-08-30,M,9,3eme annee,Actif,2024
+350,G123283960,  Zemmouri, Nadia,2000-12-03,F,8,3eme annee,Actif,2024
+351,G152813894,  Mernissi,   Kenza,2000-01-16,F,4,2eme annee,Actif,2022
+352,G126610839, Idrissi,  Hamza,2003-03-10,M,1,1ere annee,Actif,-2024
+353,G134917786,   El Fassi, Chakib,2004-09-25,M,7,3eme annee,Redoublant,2024
+354,G158406016,Oufkir,Zineb,2003-11-24,F,3,1ere annee,Actif,2024
+355,G137979220,Berrada,Ibrahim,2000-06-01,M,7,3eme annee,Abandon,2022
+356,G156813149,Bensouda,Lamiae,2005-12-11,F,11,3eme annee,Redoublant,2022
+357,G131519884,   Qasmi,   Omar,2001-09-25,M,2,1ere annee,Actif,2024
+358,G190095263, Lahlou,  Fouad,2002-06-05,M,1,2eme annee,Actif,-2023
+359,G124580812, Benhaddou,  Zineb,2000-07-30,F,1,1ere annee,Actif,2022
+360,G115098270,   El Amrani,   Dina,2003-07-13,F,9,3eme annee,Diplome,2023
+361,G168281626,Iharchane,Imane,1999-11-21,F,2,2eme annee,Actif,2022
+362,G110312681,Hassani,Youssef,2002-09-02,M,9,3eme annee,Actif,2024
+363,G150138147, Tahiri, Driss,2002-06-03,M,6,2eme annee,Actif,2022
+364,G188521869,Rbii,Yasmine,2005-12-08,F,3,1ere annee,Redoublant,2022
+365,G105885044,Bensouda,Yasmine,2001-09-11,F,10,3eme annee,Actif,2024
+366,G158264710,   Naji, Chaimae,2000-02-03,F,2,2eme annee,Abandon,2023
+367,G130095669, Ziani, Fouad,2005-08-02,M,9,3eme annee,Diplome,2023
+368,G106052535,Sekkat,Dina,1998-11-10,F,5,1ere annee,Abandon,2024
+369,G196678371,Zemmouri,Lamiae,2005-05-30,F,7,3eme annee,Diplome,2022
+370,G115292162,  Oufkir,   Hajar,1998-03-08,F,5,1ere annee,Abandon,2024
+371,G194540089,Jaafari,Nabil,2002-09-01,M,7,3eme annee,Actif,2022
+372,G171722733,Alaoui,Amine,2002-11-12,M,2,2eme annee,Actif,2024
+373,G192852660,Mernissi,Zineb,2003-02-28,F,2,1ere annee,Redoublant,2022
+374,G190436326, Mernissi, Meryem,2005-09-29,F,10,3eme annee,Actif,2024
+375,G132451191, Naciri,   Ilyas,2005-04-15,M,8,3eme annee,Actif,2024
+376,G156623671, Alaoui,   Driss,2003-04-26,M,2,2eme annee,Actif,2023
+377,G102634395,Ouazzani,Jawad,2003-04-16,M,3,2eme annee,Diplome,2024
+378,G101056868, Daoudi,   Saad,2001-09-29,M,5,2eme annee,Actif,2024
+379,G198123701,Tazi,Meryem,2004-09-06,F,8,3eme annee,Abandon,2024
+380,G142392689,Saidi,Chakib,2004-06-18,M,1,1ere annee,Actif,2024
+381,G166409428,Bensouda,Oumaima,1999-04-24,F,11,3eme annee,Diplome,2023
+382,G197470140,Ghazali,Zineb,2001-03-25,F,7,3eme annee,Actif,2022
+383,G178874216,Kabbaj,Yasmine,2000-06-18,F,8,3eme annee,Diplome,2022
+384,G122420574,Ziani,Driss,1999-03-08,M,9,3eme annee,Diplome,2022
+385,G166892907,  Daoudi, Fouad,2003-09-04,M,6,2eme annee,Diplome,2022
+386,G149987561,Naji,Oumaima,2000-12-25,F,6,1ere annee,Actif,2023
+387,G158260195,Benali,Rachid,1999-11-05,M,2,2eme annee,Redoublant,2023
+388,G107759103, Ziani, Zakaria,2004-06-11,M,11,3eme annee,Actif,2024
+389,G196844941,Kabbaj,Oumaima,2001-05-31,F,7,3eme annee,Diplome,-2023
+390,G168675400,Tazi,Meryem,1999-01-16,F,3,2eme annee,Actif,2024
+391,G172468532, Zemmouri, Lamiae,1998-04-25,F,11,3eme annee,Actif,2022
+392,G198245520, Benali, Omar,1999-03-29,M,5,2eme annee,Diplome,2024
+393,G145497164,   Hamdaoui, Kenza,2003-01-31,F,10,3eme annee,Actif,2024
+394,G198987228,Hamdaoui,Dina,2003-10-30,F,5,1ere annee,Actif,2023
+395,G160976401,Driouch,Fatima,2002-01-19,F,9,3eme annee,Actif,2024
+396,G157027331,El Amrani,Zineb,1998-09-12,F,7,3eme annee,Actif,2022
+397,G170632831,Moussaoui,Ilyas,2005-08-04,M,8,3eme annee,Actif,2022
+398,G192478411,Rbii,Salma,2002-12-08,F,5,2eme annee,Redoublant,2024
+399,G105406577,  Sekkat,   Fatima,2001-04-01,F,2,2eme annee,Abandon,2022
+400,G138048350,Guennoun,Hamza,2001-06-03,M,10,3eme annee,Actif,2023
+401,G189985448,Oufkir,Lamiae,1998-07-07,F,4,2eme annee,Diplome,2023
+402,G194945466,Jaafari,Ilyas,2005-01-24,M,3,1ere annee,Abandon,2024
+403,G188349411,Saidi,Hamza,1999-05-08,M,8,3eme annee,Actif,2024
+404,G111361254,Saidi,Nabil,2002-12-25,M,5,1ere annee,Abandon,2022
+405,G120700047,Jaafari,Saad,1999-01-03,M,5,1ere annee,Actif,2022
+406,G105609238,Alaoui,Tarik,2003-01-25,M,9,3eme annee,Diplome,2023
+407,G137756962,  Benhaddou,  Hajar,2003-09-22,F,6,1ere annee,Abandon,-2024
+408,G100574350,Alaoui,Hamza,2003-05-06,M,3,1ere annee,Abandon,2024
+409,G172226781,   Chraibi,   Chaimae,2002-05-28,F,9,3eme annee,Diplome,2024
+410,G149725069,  Ghazali, Yasmine,2003-03-11,F,3,1ere annee,Actif,2024
+411,G195186914, Lahlou,   Ibrahim,2005-08-19,M,4,1ere annee,Actif,2024
+412,G131441568,Qasmi,Omar,2000-06-24,M,10,3eme annee,Actif,2024
+413,G185689443,  Moussaoui,   Driss,2000-03-14,M,5,1ere annee,Actif,2023
+414,G174059354,Ghazali,Hajar,1999-11-30,F,10,3eme annee,Diplome,2024
+415,G148515929,Rachidi,Badr,2003-07-23,M,11,3eme annee,Diplome,2024
+416,G156884191,Cherkaoui,Jawad,2005-09-25,M,6,1ere annee,Actif,2022
+417,G144869326, Iharchane,  Kenza,2005-01-09,F,7,3eme annee,Abandon,2022
+418,G183932889,Ouazzani,Driss,1999-01-27,M,10,3eme annee,Diplome,2024
+419,G190941162, Benhaddou, Btissam,1999-02-22,F,1,2eme annee,Actif,2023
+420,G183111718, Driouch,  Nadia,2004-12-15,F,7,3eme annee,Redoublant,2023
+421,G125834405,Daoudi,Driss,2004-08-04,M,8,3eme annee,Actif,2024
+422,G125986503,  Tahiri,  Fouad,2004-08-25,M,10,3eme annee,Actif,2024
+423,G168870570,  Ziani, Omar,2002-11-21,M,1,2eme annee,Abandon,2022
+424,G163018412,  Jalil,  Nadia,1999-08-27,F,10,3eme annee,Actif,2024
+425,G168062865,Tazi,Btissam,2000-08-30,F,6,1ere annee,Actif,2022
+426,G145842323,Ghazali,Zineb,1998-10-08,F,6,1ere annee,Actif,2022
+427,G166562688,Hamdaoui,Asmaa,1998-06-22,F,6,1ere annee,Redoublant,2022
+428,G198594487,   Kettani, Rachid,2003-05-24,M,4,1ere annee,Actif,2023
+429,G129386305,Idrissi,Hamza,1999-12-15,M,1,1ere annee,Actif,2022
+430,G102884611,Fathi,Lamiae,2000-03-13,F,9,3eme annee,Actif,2022
+431,G188705666,   Fathi,  Houda,2002-03-06,F,8,3eme annee,Actif,2022
+432,G182681879,Zemmouri,Imane,1998-07-09,F,6,2eme annee,Actif,2024
+433,G182528662,Chraibi,Hajar,2005-06-10,F,4,1ere annee,Redoublant,2024
+434,G153136795,   Guennoun,  Mehdi,2000-08-18,M,4,1ere annee,Redoublant,2022
+435,G134162336,  Tazi,   Chaimae,2002-03-13,F,7,3eme annee,Actif,-2024
+436,G103317620,  Fathi,  Yasmine,2002-04-16,F,6,2eme annee,Actif,2023
+437,G191743095,Idrissi,Ibrahim,2001-05-24,M,6,2eme annee,Actif,2022
+438,G137828631,Lahlou,Rachid,2001-05-11,M,9,3eme annee,Actif,-2023
+439,G193676091,  Naji, Imane,2002-10-23,F,6,2eme annee,Actif,2022
+440,G156257000, Naji,  Rajae,2000-07-12,F,1,2eme annee,Actif,2023
+441,G118674348,El Amrani,Nadia,1998-05-12,F,6,1ere annee,Abandon,2024
+442,G171738111,Mernissi,Imane,1998-09-18,F,7,3eme annee,Redoublant,2022
+443,G123008094,Driouch,Hajar,1999-01-17,F,2,2eme annee,Actif,2023
+444,G127713235,El Amrani,Imane,2002-05-13,F,8,3eme annee,Actif,2024
+445,G181028510,   Zemmouri,   Meryem,1999-10-13,F,7,3eme annee,Diplome,2024
+446,G127072082,Alaoui,Fouad,2001-02-02,M,9,3eme annee,Diplome,2024
+447,G186744801,   Oufkir,   Oumaima,2001-03-25,F,10,3eme annee,Actif,2022
+448,G189477179,   Cherkaoui, Ibrahim,2001-04-10,M,4,2eme annee,Diplome,2022
+449,G127833011,Sekkat,Btissam,2000-11-01,F,7,3eme annee,Actif,2023
+450,G153598753,Ghazali,Rajae,2001-11-08,F,1,2eme annee,Redoublant,2022
+451,G159144114,Lahlou,Hamza,1999-09-21,M,2,1ere annee,Actif,2024
+452,G155791626,  Rachidi,  Driss,1998-06-30,M,2,1ere annee,Actif,2024
+453,G108860555,  Iharchane,  Oumaima,2000-06-20,F,1,1ere annee,Redoublant,2023
+454,G167051958,   Daoudi,  Ilyas,2004-09-18,M,2,2eme annee,Actif,2022
+455,G164710444, Cherkaoui,   Nabil,2005-06-22,M,11,3eme annee,Actif,2024
+456,G168588767,Ziani,Jawad,2002-04-16,M,10,3eme annee,Diplome,2024
+457,G127113563,El Fassi,Rachid,2001-04-29,M,1,2eme annee,Diplome,2022
+458,G159555922,Kettani,Fouad,2004-09-15,M,11,3eme annee,Actif,2022
+459,G124635056,Ouazzani,Amine,2001-08-10,M,10,3eme annee,Diplome,2023
+460,G164581639,  Chraibi,  Oumaima,2001-01-18,F,5,2eme annee,Actif,2024
+461,G156733465,Sekkat,Salma,2002-12-13,F,7,3eme annee,Diplome,2022
+462,G111171324,Jaafari,Ilyas,2002-10-17,M,8,3eme annee,Redoublant,2022
+463,G134260204,Lahlou,Zakaria,2002-11-23,M,2,1ere annee,Actif,-2023
+464,G194832737, Berrada,  Amine,2005-01-28,M,4,1ere annee,Actif,2023
+465,G133207452, Wahbi, Hamza,2000-11-07,M,5,2eme annee,Actif,2024
+466,G126969824,Benali,Hamza,2000-01-31,M,8,3eme annee,Actif,2024
+467,G185420677,Filali,Chakib,1999-03-24,M,5,2eme annee,Abandon,2023
+468,G108194860,Iharchane,Asmaa,1998-02-08,F,8,3eme annee,Actif,2024
+469,G169803166,Idrissi,Youssef,2004-10-05,M,2,1ere annee,Actif,2022
+470,G191517699,Kabbaj,Nadia,2002-02-27,F,6,2eme annee,Actif,2024
+471,G165033340,Moussaoui,Chakib,2004-10-21,M,6,2eme annee,Actif,2024
+472,G139441620,Bensouda,Imane,2002-04-26,F,7,3eme annee,Actif,2023
+473,G117161260,   Qasmi,   Chakib,1998-05-11,M,9,3eme annee,Diplome,-2024
+474,G159899586,Driouch,Zineb,1999-11-20,F,11,3eme annee,Diplome,2024
+475,G158370404,  Alaoui,  Hamza,1999-03-09,M,4,1ere annee,Actif,2022
+476,G192849750,Kettani,Jawad,1999-01-06,M,9,3eme annee,Diplome,2024
+477,G187767609,Ziani,Ilyas,2002-04-13,M,11,3eme annee,Redoublant,2023
+478,G111768256,  Driouch, Chaimae,2001-04-06,F,4,2eme annee,Actif,2022
+479,G108306055,  Zemmouri,  Imane,2001-06-27,F,10,3eme annee,Actif,2024
+480,G142402900,El Fassi,Mehdi,2003-03-02,M,7,3eme annee,Diplome,2022
+481,G180727321,  Jaafari, Fouad,1999-08-27,M,8,3eme annee,Diplome,2024
+482,G198747415,Benhaddou,Hajar,2005-11-08,F,3,1ere annee,Actif,2024
+483,G112891308,Lahlou,Youssef,1998-08-19,M,7,3eme annee,Actif,2023
+484,G119940502,Ziani,Rachid,2002-11-12,M,1,2eme annee,Abandon,2022
+485,G187283256,Mernissi,Lamiae,2003-03-15,F,11,3eme annee,Actif,2024
+486,G116381483,Rbii,Houda,1998-12-05,F,6,1ere annee,Actif,2022
+487,G176695110,   El Amrani,   Dina,2001-05-07,F,8,3eme annee,Redoublant,2024
+488,G102650315,  Mernissi,  Houda,2005-11-10,F,2,1ere annee,Actif,2024
+489,G115747238,  Fathi,  Hajar,2005-05-21,F,2,1ere annee,Actif,2024
+490,G116739248,  Rachidi,   Mehdi,1998-12-13,M,2,2eme annee,Actif,2024
+491,G100011484,Hamdaoui,Meryem,2005-05-19,F,9,3eme annee,Redoublant,2022
+492,G128885391,   El Fassi, Ilyas,2001-05-12,M,4,1ere annee,Actif,-2022
+493,G187210510,Filali,Rachid,2002-04-13,M,9,3eme annee,Actif,2023
+494,G116726377,Saidi,Driss,2001-01-11,M,10,3eme annee,Actif,2022
+495,G154042937,Rbii,Fatima,2004-09-01,F,11,3eme annee,Diplome,2024
+496,G169123671,  Tazi,  Dina,2003-08-02,F,1,1ere annee,Redoublant,-2023
+497,G165534015,Benali,Omar,2004-12-05,M,5,1ere annee,Redoublant,2024
+498,G157821509,Rbii,Imane,1999-02-20,F,3,2eme annee,Actif,2023
+499,G116621878,   Qasmi, Amine,2002-08-10,M,9,3eme annee,Actif,2024
+500,G153064163,Lahlou,Mehdi,2003-04-12,M,11,3eme annee,Actif,2023

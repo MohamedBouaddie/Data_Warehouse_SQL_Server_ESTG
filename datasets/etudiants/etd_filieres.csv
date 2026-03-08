@@ -1,0 +1,7 @@
+etd_id_filiere,etd_code_filiere,etd_nom_filiere,etd_type_diplome,etd_duree,etd_departement
+2,GE,Genie Electrique,DUT,2,Electrotechnique
+2,EREE,Energies Renouvelables et Efficacite Energetique,DUT,2,Energie
+6,ID,   Ingenierie des Donnees,DUT,2,Informatique
+7,GEII,  Genie Electrique et Informatique Industrielle,Bachelor,1,Electrotechnique
+6,SDSI,Sciences de Donnees et Systemes Intelligents,Bachelor,1,Informatique
+11,CCGA, Comptabilite Controle de Gestion et Audit,Bachelor,1,Gestion

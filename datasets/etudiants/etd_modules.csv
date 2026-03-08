@@ -1,0 +1,107 @@
+etd_id_module,etd_code_module,etd_nom_module,etd_id_filiere,etd_semestre,etd_coefficient,etd_volume_horaire,etd_type_module
+1,MGI101,Algorithmique et Programmation,1,S1,3,50,Majeur
+4,MGI104,   Electronique Numerique,1,S1,2,50,Complementaire
+10,MGI204,   Mathematiques pour l'Informatique,1,S2,2,50,Complementaire
+11,MGI205,Langue Anglaise Technique,1,S2,1,-50,Transversal
+17,MGI305, Probabilites et Statistiques,1,S3,2,50,Complementaire
+18,MGI306,Droit de l'Entreprise,1,S3,1,-50,Transversal
+19,MGI401,Genie Logiciel,1,S4,3,-50,Majeur
+186,MGI402,   Reseaux Informatiques,1,S4,3,50,Majeur
+60,MGI404,Securite Informatique,1,S4,3,50,Majeur
+9,MGI405,Entrepreneuriat et Gestion de Projet,1,S4,1,50,Transversal
+25,MGI407,SFE,1,S4,5,0,Majeur
+26,MGE101, Electronique Analogique,2,S1,3,50,Majeur
+27,MGE102,Electrotechnique,2,S1,3,50,Majeur
+30,MGE105, Langue Francaise,2,S1,1,50,Transversal
+119,MGE106,Culture et Civilisation Islamique,2,S1,1,50,Transversal
+34,MGE203,   Mathematiques Appliquees,2,S2,2,50,Complementaire
+26,MGE204,Informatique Industrielle,2,S2,2,50,Complementaire
+86,MGE205,Langue Anglaise Technique,2,S2,1,50,Transversal
+38,MGE301,  Machines Electriques,2,S3,3,50,Majeur
+40,MGE303,Electronique de Puissance,2,S3,3,50,Majeur
+128,MGE304,Instrumentation et Mesure,2,S3,3,50,Majeur
+43,MGE306,Droit de l'Entreprise,2,S3,1,50,Transversal
+44,MGE401,   Systemes Automatises,2,S4,3,50,Majeur
+45,MGE402,Reseaux Electriques,2,S4,3,50,Majeur
+49,MGE406, PFE,2,S4,5,0,Majeur
+52,MTM102,Mathematiques Financieres,3,S1,2,50,Complementaire
+54,MTM104,Informatique de Gestion,3,S1,2,50,Complementaire
+55,MTM105,Langue Francaise,3,S1,1,50,Transversal
+56,MTM106,  Culture et Civilisation Islamique,3,S1,1,50,Transversal
+58,MTM202,Mathematiques Financieres,3,S2,2,50,Complementaire
+204,MTM203, Droit Commercial Marocain,3,S2,3,50,Majeur
+60,MTM204, Marketing Fondamental,3,S2,3,-50,Majeur
+46,MTM205, Langue Anglaise des Affaires,3,S2,1,50,Transversal
+62,MTM206,   Techniques d'Expression et Communication,3,S2,1,-50,Transversal
+94,MTM302,Finance d'Entreprise,3,S3,3,50,Majeur
+67,MTM305,Statistiques Appliquees,3,S3,2,-50,Complementaire
+51,MTM401,Controle de Gestion,3,S4,3,50,Majeur
+94,MTM402,  Gestion de Projet,3,S4,3,-50,Majeur
+72,MTM404,Analyse Financiere,3,S4,3,50,Majeur
+12,MTM405,Entrepreneuriat,3,S4,1,50,Transversal
+55,MEREE103,Physique des Materiaux,4,S1,2,50,Complementaire
+80,MEREE105,  Langue Francaise,4,S1,1,50,Transversal
+81,MEREE106,Culture et Civilisation Islamique,4,S1,1,50,Transversal
+26,MEREE202,Transfert de Chaleur,4,S2,3,-50,Majeur
+84,MEREE203,Mathematiques Appliquees,4,S2,2,50,Complementaire
+86,MEREE205,Langue Anglaise Technique,4,S2,1,50,Transversal
+89,MEREE302,Energie Eolienne,4,S3,3,50,Majeur
+106,MEREE304,Reseaux Electriques,4,S3,3,50,Majeur
+92,MEREE305,   Gestion de l'Energie,4,S3,2,50,Complementaire
+93,MEREE306,Droit de l'Environnement,4,S3,1,50,Transversal
+95,MEREE402, Stockage d'Energie,4,S4,3,50,Majeur
+97,MEREE404,  Energie Hydraulique,4,S4,3,50,Majeur
+98,MEREE405,Entrepreneuriat et Gestion de Projet,4,S4,1,-15,Transversal
+99,MEREE406,PFE,4,S4,5,0,Majeur
+100,MEREE407,SFE,4,S4,5,0,Majeur
+68,MRIS105,Langue Francaise,5,S1,1,50,Transversal
+106,MRIS106, Culture et Civilisation Islamique,5,S1,1,50,Transversal
+113,MRIS301,  Reseaux LAN et WAN,5,S3,3,50,Majeur
+119,MRIS401,Securite des Reseaux,5,S4,3,50,Majeur
+84,MRIS405,Entrepreneuriat et Gestion de Projet,5,S4,1,50,Transversal
+124,MRIS406,   PFE,5,S4,5,0,Majeur
+207,MRIS407,SFE,5,S4,5,0,Majeur
+126,MID101,   Algorithmique et Programmation Python,6,S1,3,50,Majeur
+130,MID105,Langue Francaise,6,S1,1,50,Transversal
+133,MID202,Base de Donnees NoSQL,6,S2,3,50,Majeur
+134,MID203,Probabilites et Inference Statistique,6,S2,2,50,Complementaire
+135,MID204,Systemes d'Information,6,S2,3,50,Majeur
+108,MID205,Langue Anglaise Technique,6,S2,1,50,Transversal
+137,MID206,Techniques d'Expression et Communication,6,S2,1,50,Transversal
+138,MID301,Big Data et Hadoop,6,S3,3,50,Majeur
+144,MID401,Machine Learning,6,S4,3,50,Majeur
+84,MID404, Projet Integre Data Science,6,S4,3,50,Majeur
+148,MID405,   Entrepreneuriat et Gestion de Projet,6,S4,1,50,Transversal
+35,MGEII101,Automatisme Avance et API,7,S1,3,-50,Majeur
+152,MGEII102, Electronique de Puissance Industrielle,7,S1,3,-50,Majeur
+153,MGEII103,Informatique Industrielle et SCADA,7,S1,3,50,Majeur
+122,MGEII104,   Robotique Industrielle,7,S1,3,50,Majeur
+156,MGEII106,   Management de la Qualite,7,S1,2,50,Complementaire
+157,MGEII201, Systemes Embarques Avances,7,S2,3,50,Majeur
+158,MGEII202,Reseaux Industriels,7,S2,3,50,Majeur
+160,MGEII204,Projet Industriel Integre,7,S2,3,50,Majeur
+161,MGEII205,  Entrepreneuriat et Innovation,7,S2,1,50,Transversal
+162,MGEII206,Stage Professionnel,7,S2,5,-1,Majeur
+163,MSI101,Cryptographie et Securite,8,S1,3,50,Majeur
+165,MSI103,Ethical Hacking et Tests d'Intrusion,8,S1,3,50,Majeur
+168,MSI106,Droit du Numerique et RGPD,8,S1,2,50,Complementaire
+130,MSI203,Audit et Conformite Securite,8,S2,3,50,Majeur
+172,MSI204,Projet Securite Integre,8,S2,3,50,Majeur
+174,MSI206,Stage Professionnel,8,S2,5,0,Majeur
+175,MSDSI101,Deep Learning et Reseaux de Neurones,9,S1,3,50,Majeur
+176,MSDSI102,  Big Data et Traitement Distribue,9,S1,3,50,Majeur
+38,MSDSI105,  Langue Anglaise Data Science,9,S1,1,50,Transversal
+183,MSDSI203,Data Engineering,9,S2,3,50,Majeur
+186,MSDSI206,Stage Professionnel,9,S2,5,0,Majeur
+98,MIEE101,Gestion Durable des Ressources en Eau,10,S1,3,50,Majeur
+50,MIEE104,  Environnement et Developpement Durable,10,S1,2,50,Complementaire
+191,MIEE105,  Langue Anglaise Technique,10,S1,1,-50,Transversal
+46,MIEE106,Gestion de Projet Environnemental,10,S1,2,50,Complementaire
+195,MIEE203, Reseaux d'Irrigation et Hydraulique Urbaine,10,S2,3,50,Majeur
+196,MIEE204,Projet Eau et Energie Integre,10,S2,3,50,Majeur
+201,MCCGA103,Fiscalite des Entreprises,11,S1,3,50,Majeur
+202,MCCGA104, Analyse et Diagnostic Financier,11,S1,3,50,Majeur
+204,MCCGA106,Droit des Societes,11,S1,2,50,Complementaire
+207,MCCGA203,Controle Budgetaire,11,S2,3,50,Majeur
+209,MCCGA205,   Entrepreneuriat et Innovation,11,S2,1,50,Transversal
+122,MCCGA206,   Stage Professionnel,11,S2,5,0,Majeur

@@ -1,0 +1,29 @@
+﻿ens_id_enseignant,ens_nom,ens_prenom,ens_grade,ens_specialite,ens_departement
+1,Alaoui,Karim,PA,Reseaux,Electrotechnique
+3,Alaoui,Chakib,PA,Reseaux,Informatique
+4,Ziani,Ilyas,Vacataire,Reseaux,Energie
+5,  Ait Said, Hajar,Vacataire,Energie,Gestion
+7,Lahlou,Omar,PH,Informatique,Energie
+8,   Moussaoui,  Chakib,PH,Finance,Gestion
+10,Daoudi,Rachid,PH,Automatisme,Gestion
+1,  Lahlou,   Omar,PA,Gestion,Informatique
+15,Ghazali,Zineb,Vacataire,Automatisme,Electrotechnique
+25, Benali,  Driss,PA,Mathematiques,Energie
+22,   Rachidi,  Driss,PH,Cybersecurite,Electrotechnique
+45, Ait Said,  Dina,PH,Gestion,Electrotechnique
+26,  El Fassi, Youssef,PA,Gestion,Energie
+32,Saidi,Fouad,Vacataire,Reseaux,Energie
+33,Ghazali,Dina,Professeur,Data Science,Gestion
+34,   Naji,  Yasmine,Professeur,Electronique,Informatique
+43,El Amrani,Salma,PA,Gestion,Energie
+-37,Cherkaoui,Tarik,Professeur,Informatique,Informatique
+53,  Hassani, Hamza,Vacataire,Automatisme,Energie
+40, Iharchane,   Yasmine,PH,Data Science,Energie
+32,Rachidi,Chakib,PA,Electronique,Informatique
+37,Naciri,Zakaria,PH,Gestion,Electrotechnique
+47,Kabbaj,Chaimae,Professeur,Automatisme,Informatique
+29,Saidi,Ibrahim,PH,Mathematiques,Gestion
+22,   Hassani,  Omar,PH,Mathematiques,Energie
+50,  Bensouda,  Houda,Professeur,Cybersecurite,Gestion
+53,Iharchane,Btissam,Professeur,Data Science,Gestion
+54, Alaoui,   Nabil,PA,Gestion,Electrotechnique
